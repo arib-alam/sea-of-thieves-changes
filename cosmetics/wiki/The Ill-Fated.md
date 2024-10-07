@@ -1,0 +1,31 @@
+# The Ill-Fated
+
+| Drowned Rat Ill-Fated Ship's Crest | Raging Storm Ill-Fated Ship's Crest | Scorched Sails Ill-Fated Ship's Crest |
+| ---------------------------------- | ----------------------------------- | ------------------------------------- |
+| A Captain should never set sail without naming their ship. It might bring them bad luck... | A Captain should never set sail without naming their ship. It might bring them bad luck... | A Captain should never set sail without naming their ship. It might bring them bad luck... |
+| [![Drowned Rat Ill-Fated Ship's Crest image thumbnail](https://seaofthieves.wiki.gg/images/2/2e/Drowned_Rat_Ill-Fated_Ship%27s_Crest.png)](https://seaofthieves.wiki.gg/wiki/Drowned_Rat_Ill-Fated_Ship's_Crest) | [![Raging Storm Ill-Fated Ship's Crest image thumbnail](https://seaofthieves.wiki.gg/images/4/4a/Raging_Storm_Ill-Fated_Ship%27s_Crest.png)](https://seaofthieves.wiki.gg/wiki/Raging_Storm_Ill-Fated_Ship's_Crest) | [![Scorched Sails Ill-Fated Ship's Crest image thumbnail](https://seaofthieves.wiki.gg/images/c/cd/Scorched_Sails_Ill-Fated_Ship%27s_Crest.png)](https://seaofthieves.wiki.gg/wiki/Scorched_Sails_Ill-Fated_Ship's_Crest) |
+
+| Sunken Dreams Ill-Fated Ship's Crest | Drowned Rat Ill-Fated Captain's Logbook | Raging Storm Ill-Fated Captain's Logbook |
+| ------------------------------------ | --------------------------------------- | ---------------------------------------- |
+| A Captain should never set sail without naming their ship. It might bring them bad luck... | At least if your ship sinks, its Recovered Captain's Logbook can provide a profit for someone. | At least if your ship sinks, its Recovered Captain's Logbook can provide a profit for someone. |
+| [![Sunken Dreams Ill-Fated Ship's Crest image thumbnail](https://seaofthieves.wiki.gg/images/a/a4/Sunken_Dreams_Ill-Fated_Ship%27s_Crest.png)](https://seaofthieves.wiki.gg/wiki/Sunken_Dreams_Ill-Fated_Ship's_Crest) | [![Drowned Rat Ill-Fated Captain's Logbook image thumbnail](https://seaofthieves.wiki.gg/images/1/1e/Drowned_Rat_Ill-Fated_Captain%27s_Logbook.png)](https://seaofthieves.wiki.gg/wiki/Drowned_Rat_Ill-Fated_Captain's_Logbook) | [![Raging Storm Ill-Fated Captain's Logbook image thumbnail](https://seaofthieves.wiki.gg/images/3/3b/Raging_Storm_Ill-Fated_Captain%27s_Logbook.png)](https://seaofthieves.wiki.gg/wiki/Raging_Storm_Ill-Fated_Captain's_Logbook) |
+
+| Scorched Sails Ill-Fated Captain's Logbook | Sunken Dreams Ill-Fated Captain's Logbook | Drowned Rat Ill-Fated Ship's Banner |
+| ------------------------------------------ | ----------------------------------------- | ----------------------------------- |
+| At least if your ship sinks, its Recovered Captain's Logbook can provide a profit for someone. | At least if your ship sinks, its Recovered Captain's Logbook can provide a profit for someone. | Ships who draw near and see this Ship's Banner may well change course. Misfortune can spread... |
+| [![Scorched Sails Ill-Fated Captain's Logbook image thumbnail](https://seaofthieves.wiki.gg/images/a/ac/Scorched_Sails_Ill-Fated_Captain%27s_Logbook.png)](https://seaofthieves.wiki.gg/wiki/Scorched_Sails_Ill-Fated_Captain's_Logbook) | [![Sunken Dreams Ill-Fated Captain's Logbook image thumbnail](https://seaofthieves.wiki.gg/images/8/82/Sunken_Dreams_Ill-Fated_Captain%27s_Logbook.png)](https://seaofthieves.wiki.gg/wiki/Sunken_Dreams_Ill-Fated_Captain's_Logbook) | [![Drowned Rat Ill-Fated Ship's Banner image thumbnail](https://seaofthieves.wiki.gg/images/3/3e/Drowned_Rat_Ill-Fated_Ship%27s_Banner.png)](https://seaofthieves.wiki.gg/wiki/Drowned_Rat_Ill-Fated_Ship's_Banner) |
+
+| Raging Storm Ill-Fated Ship's Banner | Scorched Sails Ill-Fated Ship's Banner | Sunken Dreams Ill-Fated Ship's Banner |
+| ------------------------------------ | -------------------------------------- | ------------------------------------- |
+| Ships who draw near and see this Ship's Banner may well change course. Misfortune can spread... | Ships who draw near and see this Ship's Banner may well change course. Misfortune can spread... | Ships who draw near and see this Ship's Banner may well change course. Misfortune can spread... |
+| [![Raging Storm Ill-Fated Ship's Banner image thumbnail](https://seaofthieves.wiki.gg/images/b/b7/Raging_Storm_Ill-Fated_Ship%27s_Banner.png)](https://seaofthieves.wiki.gg/wiki/Raging_Storm_Ill-Fated_Ship's_Banner) | [![Scorched Sails Ill-Fated Ship's Banner image thumbnail](https://seaofthieves.wiki.gg/images/5/54/Scorched_Sails_Ill-Fated_Ship%27s_Banner.png)](https://seaofthieves.wiki.gg/wiki/Scorched_Sails_Ill-Fated_Ship's_Banner) | [![Sunken Dreams Ill-Fated Ship's Banner image thumbnail](https://seaofthieves.wiki.gg/images/7/78/Sunken_Dreams_Ill-Fated_Ship%27s_Banner.png)](https://seaofthieves.wiki.gg/wiki/Sunken_Dreams_Ill-Fated_Ship's_Banner) |
+
+| Drowned Rat Ill-Fated Flag | Raging Storm Ill-Fated Flag | Scorched Sails Ill-Fated Flag |
+| -------------------------- | --------------------------- | ----------------------------- |
+| There's no point in hiding your run of bad luck - embrace the chaos by flying this flag. | There's no point in hiding your run of bad luck - embrace the chaos by flying this flag. | There's no point in hiding your run of bad luck - embrace the chaos by flying this flag. |
+| [![Drowned Rat Ill-Fated Flag image thumbnail](https://seaofthieves.wiki.gg/images/3/35/Drowned_Rat_Ill-Fated_Flag.png)](https://seaofthieves.wiki.gg/wiki/Drowned_Rat_Ill-Fated_Flag) | [![Raging Storm Ill-Fated Flag image thumbnail](https://seaofthieves.wiki.gg/images/8/82/Raging_Storm_Ill-Fated_Flag.png)](https://seaofthieves.wiki.gg/wiki/Raging_Storm_Ill-Fated_Flag) | [![Scorched Sails Ill-Fated Flag image thumbnail](https://seaofthieves.wiki.gg/images/f/f2/Scorched_Sails_Ill-Fated_Flag.png)](https://seaofthieves.wiki.gg/wiki/Scorched_Sails_Ill-Fated_Flag) |
+
+| Sunken Dreams Ill-Fated Flag |
+| ---------------------------- |
+| There's no point in hiding your run of bad luck - embrace the chaos by flying this flag. |
+| [![Sunken Dreams Ill-Fated Flag image thumbnail](https://seaofthieves.wiki.gg/images/8/84/Sunken_Dreams_Ill-Fated_Flag.png)](https://seaofthieves.wiki.gg/wiki/Sunken_Dreams_Ill-Fated_Flag) |
