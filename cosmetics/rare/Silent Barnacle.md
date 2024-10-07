@@ -1,0 +1,91 @@
+# Silent Barnacle
+
+| Pegleg of the Silent Barnacle | *Bucket of the Silent Barnacle* | *Capstan of the Silent Barnacle* |
+| ----------------------------- | ------------------------------- | -------------------------------- |
+| 09b14662-f720-4fed-abc7-2355f2cd50e0 | *Unknown cosmetic id* | *Unknown cosmetic id* |
+| A barnacle-encrusted pegleg - probably better than having barnacles stuck to your real leg. | *A bucket that spent a long time underwater and probably wants a break from all that wet stuff.* | *A fine, nautical capstan - though its last ship still languishes on the ocean floor.* |
+| [![Pegleg of the Silent Barnacle image thumbnail](https://seaofthieves.wiki.gg/images/f/f8/Pegleg_of_the_Silent_Barnacle.png)](https://seaofthieves.wiki.gg/wiki/Pegleg_of_the_Silent_Barnacle) | [![*Bucket of the Silent Barnacle* image thumbnail](https://cdn.merciasquill.com/images/67035fed8ad30bf0035179c4)](https://seaofthieves.wiki.gg/wiki/Bucket_of_the_Silent_Barnacle) | [![*Capstan of the Silent Barnacle* image thumbnail](https://cdn.merciasquill.com/images/67035fed8ad30bf0035179c4)](https://seaofthieves.wiki.gg/wiki/Capstan_of_the_Silent_Barnacle) |
+
+| Captain's Chair of the Silent Barnacle | *Wheel of the Silent Barnacle* | *Rapier of the Silent Barnacle* |
+| -------------------------------------- | ------------------------------ | ------------------------------- |
+| e6cebc7b-f980-4a36-a844-58ffc59af764 | *Unknown cosmetic id* | *Unknown cosmetic id* |
+| A replacement fashioned from a barrel, after Stitcher Jim sold the original. | *A ship's wheel that has spent a bit too much time on the wrong side of the waves.* | *A slimmer blade attracts fewer barnacles if left on the sea bed. Blacksmiths - always thinking.* |
+| [![Captain's Chair of the Silent Barnacle image thumbnail](https://seaofthieves.wiki.gg/images/3/3c/Captain%27s_Chair_of_the_Silent_Barnacle.png)](https://seaofthieves.wiki.gg/wiki/Captain's_Chair_of_the_Silent_Barnacle) | [![*Wheel of the Silent Barnacle* image thumbnail](https://cdn.merciasquill.com/images/67035fed8ad30bf0035179c4)](https://seaofthieves.wiki.gg/wiki/Wheel_of_the_Silent_Barnacle) | [![*Rapier of the Silent Barnacle* image thumbnail](https://cdn.merciasquill.com/images/67035fed8ad30bf0035179c4)](https://seaofthieves.wiki.gg/wiki/Rapier_of_the_Silent_Barnacle) |
+
+| Captain's Bed of the Silent Barnacle | *Heavy Sword of the Silent Barnacle* | Eye of Reach of the Silent Barnacle |
+| ------------------------------------ | ------------------------------------ | ----------------------------------- |
+| 731eb984-43ac-46b8-9ec3-145211ba0b22 | *Unknown cosmetic id* | f83dde45-266b-4147-8014-6b4fc05e093e |
+| A very literal way to sleep on the sea bed. | *A weighty blade which will leave adorable barnacle indentations on your enemies.* | Both a long-range weapon and a way to watch out for your favourite sealife. |
+| [![Captain's Bed of the Silent Barnacle image thumbnail](https://seaofthieves.wiki.gg/images/d/d7/Captain%27s_Bed_of_the_Silent_Barnacle.png)](https://seaofthieves.wiki.gg/wiki/Captain's_Bed_of_the_Silent_Barnacle) | [![*Heavy Sword of the Silent Barnacle* image thumbnail](https://cdn.merciasquill.com/images/67035fed8ad30bf0035179c4)](https://seaofthieves.wiki.gg/wiki/Heavy_Sword_of_the_Silent_Barnacle) | [![Eye of Reach of the Silent Barnacle image thumbnail](https://seaofthieves.wiki.gg/images/9/9d/Eye_of_Reach_of_the_Silent_Barnacle.png)](https://seaofthieves.wiki.gg/wiki/Eye_of_Reach_of_the_Silent_Barnacle) |
+
+| Gloves of the Silent Barnacle | *Speaking Trumpet of the Silent Barnacle* | *Drum of the Silent Barnacle* |
+| ----------------------------- | ----------------------------------------- | ----------------------------- |
+| d1d281df-90a7-4647-82aa-04c3e9323799 | *Unknown cosmetic id* | *Unknown cosmetic id* |
+| Don't be surprised if there's a starfish living inside one or both of these gloves. | *Don’t be surprised if this old trumpet from the depths merely produces a stream of bubbles.* | *Dredged up from a shipwreck, this drum plays with the echoes of the deep.* |
+| [![Gloves of the Silent Barnacle image thumbnail](https://seaofthieves.wiki.gg/images/7/7d/Gloves_of_the_Silent_Barnacle.png)](https://seaofthieves.wiki.gg/wiki/Gloves_of_the_Silent_Barnacle) | [![*Speaking Trumpet of the Silent Barnacle* image thumbnail](https://cdn.merciasquill.com/images/67035fed8ad30bf0035179c4)](https://seaofthieves.wiki.gg/wiki/Speaking_Trumpet_of_the_Silent_Barnacle) | [![*Drum of the Silent Barnacle* image thumbnail](https://cdn.merciasquill.com/images/67035fed8ad30bf0035179c4)](https://seaofthieves.wiki.gg/wiki/Drum_of_the_Silent_Barnacle) |
+
+| Cutlass of the Silent Barnacle | *Hurdy-Gurdy of the Silent Barnacle* | Captain's Drapes of the Silent Barnacle |
+| ------------------------------ | ------------------------------------ | --------------------------------------- |
+| cd4f6615-332b-4add-9751-970c9ac84c8b | *Unknown cosmetic id* | 2ddc85fd-5728-4204-baf2-5ba8263f0a52 |
+| From the wreck of the Silent Barnacle, this blade seems fun but has a treacherous legacy... | *However badly you might play, you'll always have a rapt audience of barnacles.* | It will come as no surprise to learn that Stitcher Jim swindled someone to acquire these. |
+| [![Cutlass of the Silent Barnacle image thumbnail](https://seaofthieves.wiki.gg/images/7/7f/Cutlass_of_the_Silent_Barnacle.png)](https://seaofthieves.wiki.gg/wiki/Cutlass_of_the_Silent_Barnacle) | [![*Hurdy-Gurdy of the Silent Barnacle* image thumbnail](https://cdn.merciasquill.com/images/67035fed8ad30bf0035179c4)](https://seaofthieves.wiki.gg/wiki/Hurdy-Gurdy_of_the_Silent_Barnacle) | [![Captain's Drapes of the Silent Barnacle image thumbnail](https://seaofthieves.wiki.gg/images/2/27/Captain%27s_Drapes_of_the_Silent_Barnacle.png)](https://seaofthieves.wiki.gg/wiki/Captain's_Drapes_of_the_Silent_Barnacle) |
+
+| Captain's Chandelier of the Silent Barnacle | *Lantern of the Silent Barnacle* | Captain's Table of the Silent Barnacle |
+| ------------------------------------------- | -------------------------------- | -------------------------------------- |
+| f605b8bd-9c51-438a-9798-f06bda0ba3a0 | *Unknown cosmetic id* | 319805d9-6179-4e46-9c62-365ac26681ac |
+| It's astonishing that this still works, given how long it spent under the sea. | *Lights up even the dingiest shipwrecks, perfect for some fast looting.* | Now that it's been scraped clean, this table is as good as any other. |
+| [![Captain's Chandelier of the Silent Barnacle image thumbnail](https://seaofthieves.wiki.gg/images/8/85/Captain%27s_Chandelier_of_the_Silent_Barnacle.png)](https://seaofthieves.wiki.gg/wiki/Captain's_Chandelier_of_the_Silent_Barnacle) | [![*Lantern of the Silent Barnacle* image thumbnail](https://cdn.merciasquill.com/images/67035fed8ad30bf0035179c4)](https://seaofthieves.wiki.gg/wiki/Lantern_of_the_Silent_Barnacle) | [![Captain's Table of the Silent Barnacle image thumbnail](https://seaofthieves.wiki.gg/images/9/9a/Captain%27s_Table_of_the_Silent_Barnacle.png)](https://seaofthieves.wiki.gg/wiki/Captain's_Table_of_the_Silent_Barnacle) |
+
+| *Tankard of the Silent Barnacle* | Captain's Curtains of the Silent Barnacle | *Figurehead of the Silent Barnacle* |
+| -------------------------------- | ----------------------------------------- | ----------------------------------- |
+| *Unknown cosmetic id* | a3724571-f1f5-4302-9a12-ccdb298300da | *Unknown cosmetic id* |
+| *Perfect for raising a toast to the open sea. Especially if you drink seaweed shandies.* | Perfectly serviceable curtains. You can barely see the kelp stains. | *Perhaps this figurehead will appease the spirits of the ocean, but it did its last owner no favours.* |
+| [![*Tankard of the Silent Barnacle* image thumbnail](https://cdn.merciasquill.com/images/67035fed8ad30bf0035179c4)](https://seaofthieves.wiki.gg/wiki/Tankard_of_the_Silent_Barnacle) | [![Captain's Curtains of the Silent Barnacle image thumbnail](https://seaofthieves.wiki.gg/images/e/ef/Captain%27s_Curtains_of_the_Silent_Barnacle.png)](https://seaofthieves.wiki.gg/wiki/Captain's_Curtains_of_the_Silent_Barnacle) | [![*Figurehead of the Silent Barnacle* image thumbnail](https://cdn.merciasquill.com/images/67035fed8ad30bf0035179c4)](https://seaofthieves.wiki.gg/wiki/Figurehead_of_the_Silent_Barnacle) |
+
+| *Banjo of the Silent Barnacle* | Flag of the Silent Barnacle | Sails of the Silent Barnacle |
+| ------------------------------ | --------------------------- | ---------------------------- |
+| *Unknown cosmetic id* | 38b7b6b0-3805-44fe-b1e2-7490f16541af | 442f9ecf-5290-48d9-b628-85f910376d2e |
+| *Play a seaworthy shanty on this banjo that seems perfect for fans of all things fishy.* | Raise a flag for your fellow sea-lovers, for all those who truly love the deep will find kinship. | Sails designed for true sea-lovers, especially those that don't mind seeing the bottom of it! |
+| [![*Banjo of the Silent Barnacle* image thumbnail](https://cdn.merciasquill.com/images/67035fed8ad30bf0035179c4)](https://seaofthieves.wiki.gg/wiki/Banjo_of_the_Silent_Barnacle) | [![Flag of the Silent Barnacle image thumbnail](https://seaofthieves.wiki.gg/images/6/6b/Flag_of_the_Silent_Barnacle.png)](https://seaofthieves.wiki.gg/wiki/Flag_of_the_Silent_Barnacle) | [![Sails of the Silent Barnacle image thumbnail](https://seaofthieves.wiki.gg/images/5/57/Sails_of_the_Silent_Barnacle.png)](https://seaofthieves.wiki.gg/wiki/Sails_of_the_Silent_Barnacle) |
+
+| *Cannons of the Silent Barnacle* | Fishing Rod of the Silent Barnacle | Captain's Rugs of the Silent Barnacle |
+| -------------------------------- | ---------------------------------- | ------------------------------------- |
+| *Unknown cosmetic id* | af5c74f5-b5ad-449e-8a73-8e1cef6fa670 | 97811433-0a1c-4093-a1fc-623290818f71 |
+| *Salvaged from The Silent Barnacle, a ship built by a jealous rival Stitcher Jim!* | Somewhat ironically, this fishing rod first had to be fished out of the sea. | Squelches a little underfoot, but it still makes the ship look nice. |
+| [![*Cannons of the Silent Barnacle* image thumbnail](https://cdn.merciasquill.com/images/67035fed8ad30bf0035179c4)](https://seaofthieves.wiki.gg/wiki/Cannons_of_the_Silent_Barnacle) | [![Fishing Rod of the Silent Barnacle image thumbnail](https://seaofthieves.wiki.gg/images/f/fb/Fishing_Rod_of_the_Silent_Barnacle.png)](https://seaofthieves.wiki.gg/wiki/Fishing_Rod_of_the_Silent_Barnacle) | [![Captain's Rugs of the Silent Barnacle image thumbnail](https://seaofthieves.wiki.gg/images/e/e8/Captain%27s_Rugs_of_the_Silent_Barnacle.png)](https://seaofthieves.wiki.gg/wiki/Captain's_Rugs_of_the_Silent_Barnacle) |
+
+| *Pocket Watch of the Silent Barnacle* | Blunderbuss of the Silent Barnacle | Belt of the Silent Barnacle |
+| ------------------------------------- | ---------------------------------- | --------------------------- |
+| *Unknown cosmetic id* | ce8b5bfe-ffb1-4b37-b619-9e915a76afe3 | 1ed74cbc-44e1-47a1-8cce-9f439f072357 |
+| *Still works and keeps excellent time, but sometimes makes you feel peckish.* | Suited for the water, this blunderbuss may be the only thing between you and a shark's stomach. | The Silent Barnacle's captain wore this belt while diving for rare treasures. |
+| [![*Pocket Watch of the Silent Barnacle* image thumbnail](https://cdn.merciasquill.com/images/67035fed8ad30bf0035179c4)](https://seaofthieves.wiki.gg/wiki/Pocket_Watch_of_the_Silent_Barnacle) | [![Blunderbuss of the Silent Barnacle image thumbnail](https://seaofthieves.wiki.gg/images/7/73/Blunderbuss_of_the_Silent_Barnacle.png)](https://seaofthieves.wiki.gg/wiki/Blunderbuss_of_the_Silent_Barnacle) | [![Belt of the Silent Barnacle image thumbnail](https://seaofthieves.wiki.gg/images/a/a7/Belt_of_the_Silent_Barnacle.png)](https://seaofthieves.wiki.gg/wiki/Belt_of_the_Silent_Barnacle) |
+
+| Trousers of the Silent Barnacle | Boots of the Silent Barnacle | Pistol of the Silent Barnacle |
+| ------------------------------- | ---------------------------- | ----------------------------- |
+| 36376c9e-946f-4bd6-b633-fc1657870699 | fba870a3-ea78-4aee-a5ea-e402483a714c | 6721d8aa-9b48-4bda-85a3-fdd496d74deb |
+| There may be deep-sea critters squirming around in these trousers, but they're more scared of you… | These boots have walked across the seabed in search of underwater artefacts! | This barnacle-encrusted pistol has sent many pirates to a watery grave. |
+| [![Trousers of the Silent Barnacle image thumbnail](https://seaofthieves.wiki.gg/images/d/de/Trousers_of_the_Silent_Barnacle.png)](https://seaofthieves.wiki.gg/wiki/Trousers_of_the_Silent_Barnacle) | [![Boots of the Silent Barnacle image thumbnail](https://seaofthieves.wiki.gg/images/a/a9/Boots_of_the_Silent_Barnacle.png)](https://seaofthieves.wiki.gg/wiki/Boots_of_the_Silent_Barnacle) | [![Pistol of the Silent Barnacle image thumbnail](https://seaofthieves.wiki.gg/images/f/f4/Pistol_of_the_Silent_Barnacle.png)](https://seaofthieves.wiki.gg/wiki/Pistol_of_the_Silent_Barnacle) |
+
+| Hook of the Silent Barnacle | Eyepatch of the Silent Barnacle | *Shovel of the Silent Barnacle* |
+| --------------------------- | ------------------------------- | ------------------------------- |
+| 700e6cb9-35b1-4701-9b00-862832cdb100 | 64d4d93b-815c-4a78-ad6d-59b9fa2b3f62 | *Unknown cosmetic id* |
+| This hook has been submerged for so long, it went from rusty to… crusty. | This oceanic eyepatch keeps that stinging seawater out of your eye. | *This watery shovel should serve you well, but the sand does seem to stick to it.* |
+| [![Hook of the Silent Barnacle image thumbnail](https://seaofthieves.wiki.gg/images/3/36/Hook_of_the_Silent_Barnacle.png)](https://seaofthieves.wiki.gg/wiki/Hook_of_the_Silent_Barnacle) | [![Eyepatch of the Silent Barnacle image thumbnail](https://seaofthieves.wiki.gg/images/9/97/Eyepatch_of_the_Silent_Barnacle.png)](https://seaofthieves.wiki.gg/wiki/Eyepatch_of_the_Silent_Barnacle) | [![*Shovel of the Silent Barnacle* image thumbnail](https://cdn.merciasquill.com/images/67035fed8ad30bf0035179c4)](https://seaofthieves.wiki.gg/wiki/Shovel_of_the_Silent_Barnacle) |
+
+| *Compass of the Silent Barnacle* | *Spyglass of the Silent Barnacle* | *Concertina of the Silent Barnacle* |
+| -------------------------------- | --------------------------------- | ----------------------------------- |
+| *Unknown cosmetic id* | *Unknown cosmetic id* | *Unknown cosmetic id* |
+| *Trust this compass to guide you true, unlike its previous owner.* | *Used by a jealous captain to spy on his rival Stitcher Jim after he stole the name of his ship.* | *Watch out for squirting jets of seawater when you play this soggy concertina.* |
+| [![*Compass of the Silent Barnacle* image thumbnail](https://cdn.merciasquill.com/images/67035fed8ad30bf0035179c4)](https://seaofthieves.wiki.gg/wiki/Compass_of_the_Silent_Barnacle) | [![*Spyglass of the Silent Barnacle* image thumbnail](https://cdn.merciasquill.com/images/67035fed8ad30bf0035179c4)](https://seaofthieves.wiki.gg/wiki/Spyglass_of_the_Silent_Barnacle) | [![*Concertina of the Silent Barnacle* image thumbnail](https://cdn.merciasquill.com/images/67035fed8ad30bf0035179c4)](https://seaofthieves.wiki.gg/wiki/Concertina_of_the_Silent_Barnacle) |
+
+| *Hull of the Silent Barnacle* | *Jacket of the Silent Barnacle* | *Hat of the Silent Barnacle* |
+| ----------------------------- | ------------------------------- | ---------------------------- |
+| *Unknown cosmetic id* | *Unknown cosmetic id* | *Unknown cosmetic id* |
+| *Watery hull liveries that will help your vessel blend in with the waves it glides upon.* | *You fell in the drink so often that you decided to embrace it. Never mind the barnacles.* | *You may get the odd fishy look, but this hat belongs to a true sea-lover.* |
+| [![*Hull of the Silent Barnacle* image thumbnail](https://cdn.merciasquill.com/images/67035fed8ad30bf0035179c4)](https://seaofthieves.wiki.gg/wiki/Hull_of_the_Silent_Barnacle) | [![*Jacket of the Silent Barnacle* image thumbnail](https://cdn.merciasquill.com/images/67035fed8ad30bf0035179c4)](https://seaofthieves.wiki.gg/wiki/Jacket_of_the_Silent_Barnacle) | [![*Hat of the Silent Barnacle* image thumbnail](https://cdn.merciasquill.com/images/67035fed8ad30bf0035179c4)](https://seaofthieves.wiki.gg/wiki/Hat_of_the_Silent_Barnacle) |
+
+| *Dress of the Silent Barnacle* |
+| ------------------------------ |
+| *Unknown cosmetic id* |
+| *You're living the life aquatic in this undersea ensemble.* |
+| [![*Dress of the Silent Barnacle* image thumbnail](https://cdn.merciasquill.com/images/67035fed8ad30bf0035179c4)](https://seaofthieves.wiki.gg/wiki/Dress_of_the_Silent_Barnacle) |

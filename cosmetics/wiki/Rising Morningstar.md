@@ -1,0 +1,21 @@
+# Rising Morningstar
+
+| Rising Morningstar Hook | Rising Morningstar Dress Jacket | Rising Morningstar Captain Gloves |
+| ----------------------- | ------------------------------- | --------------------------------- |
+| A Morningstar crewman wore just such a hook, claiming his hand was lost defending the ship. | A recreation of the uniform of the Morningstar, whose crew deserve to live in our memories. | A replica of the gloves Captain Slate wore to weather the cold seas while sailing The Wilds. |
+| [![Rising Morningstar Hook image thumbnail](https://seaofthieves.wiki.gg/images/5/5d/Rising_Morningstar_Hook.png)](https://seaofthieves.wiki.gg/wiki/Rising_Morningstar_Hook) | [![Rising Morningstar Dress Jacket image thumbnail](https://seaofthieves.wiki.gg/images/c/c5/Rising_Morningstar_Dress_Jacket.png)](https://seaofthieves.wiki.gg/wiki/Rising_Morningstar_Dress_Jacket) | [![Rising Morningstar Captain Gloves image thumbnail](https://seaofthieves.wiki.gg/images/8/88/Rising_Morningstar_Captain_Gloves.png)](https://seaofthieves.wiki.gg/wiki/Rising_Morningstar_Captain_Gloves) |
+
+| Rising Morningstar Belt | Rising Morningstar Crew Jacket | Rising Morningstar Battle Hat |
+| ----------------------- | ------------------------------ | ----------------------------- |
+| A simple belt - Eli Slate chose uniforms for dignity, not showboating. He was no Sea Dog! | After the fate of Eli Slate's crew was uncovered, this jacket was made to honour those bold sailors. | Eli Slate allowed two types of hat; one for appearing proper at the Outpost, the other for battle. |
+| [![Rising Morningstar Belt image thumbnail](https://seaofthieves.wiki.gg/images/1/12/Rising_Morningstar_Belt.png)](https://seaofthieves.wiki.gg/wiki/Rising_Morningstar_Belt) | [![Rising Morningstar Crew Jacket image thumbnail](https://seaofthieves.wiki.gg/images/d/d5/Rising_Morningstar_Crew_Jacket.png)](https://seaofthieves.wiki.gg/wiki/Rising_Morningstar_Crew_Jacket) | [![Rising Morningstar Battle Hat image thumbnail](https://seaofthieves.wiki.gg/images/6/6f/Rising_Morningstar_Battle_Hat.png)](https://seaofthieves.wiki.gg/wiki/Rising_Morningstar_Battle_Hat) |
+
+| Rising Morningstar Boots | Rising Morningstar Dress | Rising Morningstar Crew Gloves |
+| ------------------------ | ------------------------ | ------------------------------ |
+| Eli Slate forbade any crewmate from walking barefoot on ship. A splinter could cost a battle! | For formal events, Slate designed this dress to smarten up his crew. A man of hidden talents. | Morningstar crew were made to wear gloves after a halyard slip left a nasty incident of rope burn. |
+| [![Rising Morningstar Boots image thumbnail](https://seaofthieves.wiki.gg/images/6/6e/Rising_Morningstar_Boots.png)](https://seaofthieves.wiki.gg/wiki/Rising_Morningstar_Boots) | [![Rising Morningstar Dress image thumbnail](https://seaofthieves.wiki.gg/images/5/56/Rising_Morningstar_Dress.png)](https://seaofthieves.wiki.gg/wiki/Rising_Morningstar_Dress) | [![Rising Morningstar Crew Gloves image thumbnail](https://seaofthieves.wiki.gg/images/7/71/Rising_Morningstar_Crew_Gloves.png)](https://seaofthieves.wiki.gg/wiki/Rising_Morningstar_Crew_Gloves) |
+
+| Rising Morningstar Pegleg | Rising Morningstar Trousers | Rising Morningstar Dress Hat |
+| ------------------------- | --------------------------- | ---------------------------- |
+| Should a Morningstar crewmate lose a leg in service, they could claim one pegleg or a month's grog. | These replicate the sturdy trousers of the Morningstar uniform - be proud to don them. | This hat should be for formal muster only, but Slate did relax his hat policy as age softened him. |
+| [![Rising Morningstar Pegleg image thumbnail](https://seaofthieves.wiki.gg/images/3/38/Rising_Morningstar_Pegleg.png)](https://seaofthieves.wiki.gg/wiki/Rising_Morningstar_Pegleg) | [![Rising Morningstar Trousers image thumbnail](https://seaofthieves.wiki.gg/images/2/28/Rising_Morningstar_Trousers.png)](https://seaofthieves.wiki.gg/wiki/Rising_Morningstar_Trousers) | [![Rising Morningstar Dress Hat image thumbnail](https://seaofthieves.wiki.gg/images/9/9e/Rising_Morningstar_Dress_Hat.png)](https://seaofthieves.wiki.gg/wiki/Rising_Morningstar_Dress_Hat) |

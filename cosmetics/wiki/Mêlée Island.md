@@ -1,0 +1,51 @@
+# Mêlée Island
+
+| Sales Pitch Emote | Elaine Figurine | Guybrush Figurine |
+| ----------------- | --------------- | ----------------- |
+| No description | A best-selling figure depicting the fearless Elaine Marley-Threepwood, former Governor of Mêlée Island. | A best-selling figure depicting the Legend of Monkey Island performing undoubtedly heroic deeds. |
+| [![Sales Pitch Emote image thumbnail](https://seaofthieves.wiki.gg/images/3/38/Sales_Pitch_Emote.png)](https://seaofthieves.wiki.gg/wiki/Sales_Pitch_Emote) | [![Elaine Figurine image thumbnail](https://seaofthieves.wiki.gg/images/c/c5/Elaine_Figurine.png)](https://seaofthieves.wiki.gg/wiki/Elaine_Figurine) | [![Guybrush Figurine image thumbnail](https://seaofthieves.wiki.gg/images/0/09/Guybrush_Figurine.png)](https://seaofthieves.wiki.gg/wiki/Guybrush_Figurine) |
+
+| Idol o' Many Hands | 'The Journey Begins' | 'Mêlée by Moonlight' |
+| ------------------ | -------------------- | -------------------- |
+| A long-lost artefact plundered from unknown shores. Possessing it proves the owner to be a born scoundrel and master of thievery. | A painting of a ship bathed in moonlight as it makes the journey to Mélée Island. | A Painting of Low Street on Mêlée Island. Just looking at it evokes the thrill of adventure! |
+| [![Idol o' Many Hands image thumbnail](https://seaofthieves.wiki.gg/images/5/56/Idol_o%27_Many_Hands.png)](https://seaofthieves.wiki.gg/wiki/Idol_o'_Many_Hands) | [!['The Journey Begins' image thumbnail](https://seaofthieves.wiki.gg/images/1/19/%27The_Journey_Begins%27.png)](https://seaofthieves.wiki.gg/wiki/'The_Journey_Begins') | [!['Mêlée by Moonlight' image thumbnail](https://seaofthieves.wiki.gg/images/6/65/%27M%C3%AAl%C3%A9e_by_Moonlight%27.png)](https://seaofthieves.wiki.gg/wiki/'Mêlée_by_Moonlight') |
+
+| Circus Superstar Costume | Governor Marley Portrait | Governor Guybrush Portrait |
+| ------------------------ | ------------------------ | -------------------------- |
+| A performer's outfit inspired by stories of a truly spectacular circus act, which took place beyond the Sea of Thieves. | A portrait of Elaine Marley, painted back when she served as Governor of Mélée Island. | A portrait of Guybrush Threepwood from one of his many exciting adventures. Display it proudly to prove that you're a mighty pirate! |
+| [![Circus Superstar Costume image thumbnail](https://seaofthieves.wiki.gg/images/0/0b/Circus_Superstar_Costume.png)](https://seaofthieves.wiki.gg/wiki/Circus_Superstar_Costume) | [![Governor Marley Portrait image thumbnail](https://seaofthieves.wiki.gg/images/c/c3/Governor_Marley_Portrait.png)](https://seaofthieves.wiki.gg/wiki/Governor_Marley_Portrait) | [![Governor Guybrush Portrait image thumbnail](https://seaofthieves.wiki.gg/images/e/eb/Governor_Guybrush_Portrait.png)](https://seaofthieves.wiki.gg/wiki/Governor_Guybrush_Portrait) |
+
+| LeChuck Painting | The Legend of Monkey Island Cutlass | Tavern Chef's Uniform |
+| ---------------- | ----------------------------------- | --------------------- |
+| A portrait of one of the most malevolent pirates to ever sail deep in the Caribbean. Hang it aboard your ship, if you dare... | A shining sword with the initials of a Mighty Pirate engraved in its blade, perhaps by the legendary original... | An ensemble favoured by chefs (and their assistants) deep in the Caribbean. Arrives pre-stained. |
+| [![LeChuck Painting image thumbnail](https://seaofthieves.wiki.gg/images/6/6a/LeChuck_Painting.png)](https://seaofthieves.wiki.gg/wiki/LeChuck_Painting) | [![The Legend of Monkey Island Cutlass image thumbnail](https://seaofthieves.wiki.gg/images/f/f2/The_Legend_of_Monkey_Island_Cutlass.png)](https://seaofthieves.wiki.gg/wiki/The_Legend_of_Monkey_Island_Cutlass) | [![Tavern Chef's Uniform image thumbnail](https://seaofthieves.wiki.gg/images/3/3c/Tavern_Chef%27s_Uniform.png)](https://seaofthieves.wiki.gg/wiki/Tavern_Chef's_Uniform) |
+
+| Stan Costume (No hairstyle or hat) | Stan Costume (Hairstyle and hat) | Rubber Chicken Fishing Rod |
+| ---------------------------------- | -------------------------------- | -------------------------- |
+| Charm your fellow crooks out of their gold by dressing as Stan while leaving your pirate's hairstyle, hat and facial hair intact. | Charm your fellow crooks out of their gold by dressing as Stan, including his hair, hat and clean-shaven look. | Inspired by a useful traversal mechanism, this rod will soon have fish soaring through the air. |
+| [![Stan Costume (No hairstyle or hat) image thumbnail](https://seaofthieves.wiki.gg/images/a/ab/Stan_Costume_%28No_hairstyle_or_hat%29.png)](https://seaofthieves.wiki.gg/wiki/Stan_Costume_(No_hairstyle_or_hat)) | [![Stan Costume (Hairstyle and hat) image thumbnail](https://seaofthieves.wiki.gg/images/c/cf/Stan_Costume_%28Hairstyle_and_hat%29.png)](https://seaofthieves.wiki.gg/wiki/Stan_Costume_(Hairstyle_and_hat)) | [![Rubber Chicken Fishing Rod image thumbnail](https://seaofthieves.wiki.gg/images/d/d9/Rubber_Chicken_Fishing_Rod.png)](https://seaofthieves.wiki.gg/wiki/Rubber_Chicken_Fishing_Rod) |
+
+| Piranha Poodle | Carla Costume (Hairstyle) | Carla Costume (No hairstyle) |
+| -------------- | ------------------------- | ---------------------------- |
+| It may look cute, but the heritage of ferocious Piranha Poodles from the Caribbean gives this loyal pet an endless energy. Keep it contented to avoid... incidents. | It's wise to keep a sharp blade ready when you dress as Carla, Sword Master of Mélée Island. Includes her hairstyle. | It's wise to keep a sharp blade ready when you dress as Carla, Sword Master of Mélée Island. Retains your pirate's hairstyle. |
+| [![Piranha Poodle image thumbnail](https://seaofthieves.wiki.gg/images/c/c6/Piranha_Poodle.png)](https://seaofthieves.wiki.gg/wiki/Piranha_Poodle) | [![Carla Costume (Hairstyle) image thumbnail](https://seaofthieves.wiki.gg/images/5/59/Carla_Costume_%28Hairstyle%29.png)](https://seaofthieves.wiki.gg/wiki/Carla_Costume_(Hairstyle)) | [![Carla Costume (No hairstyle) image thumbnail](https://seaofthieves.wiki.gg/images/1/10/Carla_Costume_%28No_hairstyle%29.png)](https://seaofthieves.wiki.gg/wiki/Carla_Costume_(No_hairstyle)) |
+
+| Herman Costume (Hairstyle and hat) | Herman Costume (No hairstyle or hat) | Elaine Costume (No hairstyle) |
+| ---------------------------------- | ------------------------------------ | ----------------------------- |
+| Need some alone time on a deserted island? Dress as Herman Toothrot in a costume that includes his tricorn hat. | Need some alone time on a deserted island? Dress as Herman Toothrot in a costume that leaves your pirate's headgear intact. | Running for Governor? Improve your chances by dressing as Elaine while leaving your pirate's hairstyle intact. |
+| [![Herman Costume (Hairstyle and hat) image thumbnail](https://seaofthieves.wiki.gg/images/6/6a/Herman_Costume_%28Hairstyle_and_hat%29.png)](https://seaofthieves.wiki.gg/wiki/Herman_Costume_(Hairstyle_and_hat)) | [![Herman Costume (No hairstyle or hat) image thumbnail](https://seaofthieves.wiki.gg/images/9/98/Herman_Costume_%28No_hairstyle_or_hat%29.png)](https://seaofthieves.wiki.gg/wiki/Herman_Costume_(No_hairstyle_or_hat)) | [![Elaine Costume (No hairstyle) image thumbnail](https://seaofthieves.wiki.gg/images/3/31/Elaine_Costume_%28No_hairstyle%29.png)](https://seaofthieves.wiki.gg/wiki/Elaine_Costume_(No_hairstyle)) |
+
+| Elaine Costume (Hairstyle) | Guybrush Costume (No hairstyle) | Guybrush Costume (Hairstyle) |
+| -------------------------- | ------------------------------- | ---------------------------- |
+| Running for Governor? Improve your chances by dressing as Elaine, including her hairstyle and headgear. | Show the world you're a mighty pirate by dressing as Guybrush while leaving your pirate's hairstyle intact. | Show the world you're a mighty pirate by dressing as Guybrush, not to mention adopting his rakish hairstyle. |
+| [![Elaine Costume (Hairstyle) image thumbnail](https://seaofthieves.wiki.gg/images/2/2b/Elaine_Costume_%28Hairstyle%29.png)](https://seaofthieves.wiki.gg/wiki/Elaine_Costume_(Hairstyle)) | [![Guybrush Costume (No hairstyle) image thumbnail](https://seaofthieves.wiki.gg/images/b/bb/Guybrush_Costume_%28No_hairstyle%29.png)](https://seaofthieves.wiki.gg/wiki/Guybrush_Costume_(No_hairstyle)) | [![Guybrush Costume (Hairstyle) image thumbnail](https://seaofthieves.wiki.gg/images/5/52/Guybrush_Costume_%28Hairstyle%29.png)](https://seaofthieves.wiki.gg/wiki/Guybrush_Costume_(Hairstyle)) |
+
+| Kate Capsize Costume (Hairstyle and hat) | Kate Capsize Costume (No hairstyle or hat) | Guybrush Portrait 1 |
+| ---------------------------------------- | ------------------------------------------ | ------------------- |
+| Take your crew on a sightseeing tour while dressed as Kate Capsize, including her hairstyle and hat. Also disguises any facial hair on your pirate. | Take your crew on a sightseeing tour while dressed as Kate Capsize, leaving your pirate's hairstyle, hat and facial hair intact. | The Legend of Monkey Island, depicted with a thoughtful, noble stance. |
+| [![Kate Capsize Costume (Hairstyle and hat) image thumbnail](https://seaofthieves.wiki.gg/images/e/e2/Kate_Capsize_Costume_%28Hairstyle_and_hat%29.png)](https://seaofthieves.wiki.gg/wiki/Kate_Capsize_Costume_(Hairstyle_and_hat)) | [![Kate Capsize Costume (No hairstyle or hat) image thumbnail](https://seaofthieves.wiki.gg/images/a/a1/Kate_Capsize_Costume_%28No_hairstyle_or_hat%29.png)](https://seaofthieves.wiki.gg/wiki/Kate_Capsize_Costume_(No_hairstyle_or_hat)) | [![Guybrush Portrait 1 image thumbnail](https://seaofthieves.wiki.gg/images/6/6d/Guybrush_Portrait_1.png)](https://seaofthieves.wiki.gg/wiki/Guybrush_Portrait_1) |
+
+| Guybrush Portrait 2 | Spiffy (pet) |
+| ------------------- | ------------ |
+| The Legend of Monkey Island, surely about to embark on another grand adventure. | Whether you're in the tavern or out at sea, this surprisingly intelligent dog is a faithful companion. |
+| [![Guybrush Portrait 2 image thumbnail](https://seaofthieves.wiki.gg/images/5/57/Guybrush_Portrait_2.png)](https://seaofthieves.wiki.gg/wiki/Guybrush_Portrait_2) | [![Spiffy (pet) image thumbnail](https://seaofthieves.wiki.gg/images/d/d3/Spiffy_%28pet%29.png)](https://seaofthieves.wiki.gg/wiki/Spiffy_(pet)) |

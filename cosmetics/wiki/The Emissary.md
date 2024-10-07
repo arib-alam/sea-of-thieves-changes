@@ -1,0 +1,31 @@
+# The Emissary
+
+| Fleet of Loyalty Emissary Ship's Banner | Graded Pennant Emissary Ship's Banner | Hardy Shovel Emissary Ship's Banner |
+| --------------------------------------- | ------------------------------------- | ----------------------------------- |
+| Advancing Reapers will soon know your ship by name, not just by its affiliation. | Advancing Reapers will soon know your ship by name, not just by its affiliation. | Advancing Reapers will soon know your ship by name, not just by its affiliation. |
+| [![Fleet of Loyalty Emissary Ship's Banner image thumbnail](https://seaofthieves.wiki.gg/images/d/dd/Fleet_of_Loyalty_Emissary_Ship%27s_Banner.png)](https://seaofthieves.wiki.gg/wiki/Fleet_of_Loyalty_Emissary_Ship's_Banner) | [![Graded Pennant Emissary Ship's Banner image thumbnail](https://seaofthieves.wiki.gg/images/5/54/Graded_Pennant_Emissary_Ship%27s_Banner.png)](https://seaofthieves.wiki.gg/wiki/Graded_Pennant_Emissary_Ship's_Banner) | [![Hardy Shovel Emissary Ship's Banner image thumbnail](https://seaofthieves.wiki.gg/images/d/d1/Hardy_Shovel_Emissary_Ship%27s_Banner.png)](https://seaofthieves.wiki.gg/wiki/Hardy_Shovel_Emissary_Ship's_Banner) |
+
+| Readied Weapons Emissary Ship's Banner | Fleet of Loyalty Emissary Captain's Logbook | Graded Pennant Emissary Captain's Logbook |
+| -------------------------------------- | ------------------------------------------- | ----------------------------------------- |
+| Advancing Reapers will soon know your ship by name, not just by its affiliation. | Dutifully recording your journey in the Captain's Logbook will ensure the Companies pay you fairly. | Dutifully recording your journey in the Captain's Logbook will ensure the Companies pay you fairly. |
+| [![Readied Weapons Emissary Ship's Banner image thumbnail](https://seaofthieves.wiki.gg/images/c/c3/Readied_Weapons_Emissary_Ship%27s_Banner.png)](https://seaofthieves.wiki.gg/wiki/Readied_Weapons_Emissary_Ship's_Banner) | [![Fleet of Loyalty Emissary Captain's Logbook image thumbnail](https://seaofthieves.wiki.gg/images/b/b6/Fleet_of_Loyalty_Emissary_Captain%27s_Logbook.png)](https://seaofthieves.wiki.gg/wiki/Fleet_of_Loyalty_Emissary_Captain's_Logbook) | [![Graded Pennant Emissary Captain's Logbook image thumbnail](https://seaofthieves.wiki.gg/images/e/e2/Graded_Pennant_Emissary_Captain%27s_Logbook.png)](https://seaofthieves.wiki.gg/wiki/Graded_Pennant_Emissary_Captain's_Logbook) |
+
+| Hardy Shovel Emissary Captain's Logbook | Readied Weapons Emissary Captain's Logbook | Fleet of Loyalty Emissary Flag |
+| --------------------------------------- | ------------------------------------------ | ------------------------------ |
+| Dutifully recording your journey in the Captain's Logbook will ensure the Companies pay you fairly. | Dutifully recording your journey in the Captain's Logbook will ensure the Companies pay you fairly. | Now you can proclaim your love of the Emissary lifestyle without the risk of your flag being stolen. |
+| [![Hardy Shovel Emissary Captain's Logbook image thumbnail](https://seaofthieves.wiki.gg/images/6/62/Hardy_Shovel_Emissary_Captain%27s_Logbook.png)](https://seaofthieves.wiki.gg/wiki/Hardy_Shovel_Emissary_Captain's_Logbook) | [![Readied Weapons Emissary Captain's Logbook image thumbnail](https://seaofthieves.wiki.gg/images/e/e5/Readied_Weapons_Emissary_Captain%27s_Logbook.png)](https://seaofthieves.wiki.gg/wiki/Readied_Weapons_Emissary_Captain's_Logbook) | [![Fleet of Loyalty Emissary Flag image thumbnail](https://seaofthieves.wiki.gg/images/6/65/Fleet_of_Loyalty_Emissary_Flag.png)](https://seaofthieves.wiki.gg/wiki/Fleet_of_Loyalty_Emissary_Flag) |
+
+| Graded Pennant Emissary Flag | Hardy Shovel Emissary Flag | Readied Weapons Emissary Flag |
+| ---------------------------- | -------------------------- | ----------------------------- |
+| Now you can proclaim your love of the Emissary lifestyle without the risk of your flag being stolen. | Now you can proclaim your love of the Emissary lifestyle without the risk of your flag being stolen. | Now you can proclaim your love of the Emissary lifestyle without the risk of your flag being stolen. |
+| [![Graded Pennant Emissary Flag image thumbnail](https://seaofthieves.wiki.gg/images/1/13/Graded_Pennant_Emissary_Flag.png)](https://seaofthieves.wiki.gg/wiki/Graded_Pennant_Emissary_Flag) | [![Hardy Shovel Emissary Flag image thumbnail](https://seaofthieves.wiki.gg/images/8/8d/Hardy_Shovel_Emissary_Flag.png)](https://seaofthieves.wiki.gg/wiki/Hardy_Shovel_Emissary_Flag) | [![Readied Weapons Emissary Flag image thumbnail](https://seaofthieves.wiki.gg/images/c/c7/Readied_Weapons_Emissary_Flag.png)](https://seaofthieves.wiki.gg/wiki/Readied_Weapons_Emissary_Flag) |
+
+| Fleet of Loyalty Emissary Ship's Crest | Graded Pennant Emissary Ship's Crest | Hardy Shovel Emissary Ship's Crest |
+| -------------------------------------- | ------------------------------------ | ---------------------------------- |
+| Surrounds the name of your vessel, so everyone will know that you're a loyal Emissary. | Surrounds the name of your vessel, so everyone will know that you're a loyal Emissary. | Surrounds the name of your vessel, so everyone will know that you're a loyal Emissary. |
+| [![Fleet of Loyalty Emissary Ship's Crest image thumbnail](https://seaofthieves.wiki.gg/images/c/ca/Fleet_of_Loyalty_Emissary_Ship%27s_Crest.png)](https://seaofthieves.wiki.gg/wiki/Fleet_of_Loyalty_Emissary_Ship's_Crest) | [![Graded Pennant Emissary Ship's Crest image thumbnail](https://seaofthieves.wiki.gg/images/f/fb/Graded_Pennant_Emissary_Ship%27s_Crest.png)](https://seaofthieves.wiki.gg/wiki/Graded_Pennant_Emissary_Ship's_Crest) | [![Hardy Shovel Emissary Ship's Crest image thumbnail](https://seaofthieves.wiki.gg/images/2/21/Hardy_Shovel_Emissary_Ship%27s_Crest.png)](https://seaofthieves.wiki.gg/wiki/Hardy_Shovel_Emissary_Ship's_Crest) |
+
+| Readied Weapons Emissary Ship's Crest |
+| ------------------------------------- |
+| Surrounds the name of your vessel, so everyone will know that you're a loyal Emissary. |
+| [![Readied Weapons Emissary Ship's Crest image thumbnail](https://seaofthieves.wiki.gg/images/3/37/Readied_Weapons_Emissary_Ship%27s_Crest.png)](https://seaofthieves.wiki.gg/wiki/Readied_Weapons_Emissary_Ship's_Crest) |

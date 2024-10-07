@@ -1,0 +1,21 @@
+# Seafoam Castaway Bilge Rat
+
+| Seafoam Castaway Bilge Rat Hat | Seafoam Castaway Bilge Rat Belt | Seafoam Castaway Bilge Rat Hook |
+| ------------------------------ | ------------------------------- | ------------------------------- |
+| Bitten by parrots and shot through by Skeletons, this hat tells its own tales of woe. | Easily adjustable by simply tying on a bit more rope. | Fashioned from the oarlock of an old rowing boat found abandoned in the Wilds. |
+| [![Seafoam Castaway Bilge Rat Hat image thumbnail](https://seaofthieves.wiki.gg/images/6/61/Seafoam_Castaway_Bilge_Rat_Hat.png)](https://seaofthieves.wiki.gg/wiki/Seafoam_Castaway_Bilge_Rat_Hat) | [![Seafoam Castaway Bilge Rat Belt image thumbnail](https://seaofthieves.wiki.gg/images/8/84/Seafoam_Castaway_Bilge_Rat_Belt.png)](https://seaofthieves.wiki.gg/wiki/Seafoam_Castaway_Bilge_Rat_Belt) | [![Seafoam Castaway Bilge Rat Hook image thumbnail](https://seaofthieves.wiki.gg/images/3/30/Seafoam_Castaway_Bilge_Rat_Hook.png)](https://seaofthieves.wiki.gg/wiki/Seafoam_Castaway_Bilge_Rat_Hook) |
+
+| Seafoam Castaway Bilge Rat Boots | Seafoam Castaway Bilge Rat Shirt | Seafoam Castaway Bilge Rat Eyepatch |
+| -------------------------------- | -------------------------------- | ----------------------------------- |
+| For those that like to feel the deck beneath their feet and the sand between their toes. | Made from the sails of shipwrecks, after a while you'll forget about the slightly odd smell. | Once worn by legendary pirates. Not as an eyepatch though, but as their underwear. |
+| [![Seafoam Castaway Bilge Rat Boots image thumbnail](https://seaofthieves.wiki.gg/images/1/15/Seafoam_Castaway_Bilge_Rat_Boots.png)](https://seaofthieves.wiki.gg/wiki/Seafoam_Castaway_Bilge_Rat_Boots) | [![Seafoam Castaway Bilge Rat Shirt image thumbnail](https://seaofthieves.wiki.gg/images/f/f7/Seafoam_Castaway_Bilge_Rat_Shirt.png)](https://seaofthieves.wiki.gg/wiki/Seafoam_Castaway_Bilge_Rat_Shirt) | [![Seafoam Castaway Bilge Rat Eyepatch image thumbnail](https://seaofthieves.wiki.gg/images/6/6f/Seafoam_Castaway_Bilge_Rat_Eyepatch.png)](https://seaofthieves.wiki.gg/wiki/Seafoam_Castaway_Bilge_Rat_Eyepatch) |
+
+| Seafoam Castaway Bilge Rat Jacket | Seafoam Castaway Bilge Rat Pegleg | Seafoam Castaway Bilge Rat Trousers |
+| --------------------------------- | --------------------------------- | ----------------------------------- |
+| One careful owner, followed by several careless ones. | Rather than light a campfire with this rotten driftwood, we made it into a leg instead. | Rats nesting in these, but after a quick wipe over you'd hardly tell. |
+| [![Seafoam Castaway Bilge Rat Jacket image thumbnail](https://seaofthieves.wiki.gg/images/e/e9/Seafoam_Castaway_Bilge_Rat_Jacket.png)](https://seaofthieves.wiki.gg/wiki/Seafoam_Castaway_Bilge_Rat_Jacket) | [![Seafoam Castaway Bilge Rat Pegleg image thumbnail](https://seaofthieves.wiki.gg/images/b/bd/Seafoam_Castaway_Bilge_Rat_Pegleg.png)](https://seaofthieves.wiki.gg/wiki/Seafoam_Castaway_Bilge_Rat_Pegleg) | [![Seafoam Castaway Bilge Rat Trousers image thumbnail](https://seaofthieves.wiki.gg/images/8/88/Seafoam_Castaway_Bilge_Rat_Trousers.png)](https://seaofthieves.wiki.gg/wiki/Seafoam_Castaway_Bilge_Rat_Trousers) |
+
+| Seafoam Castaway Bilge Rat Dress | Seafoam Castaway Bilge Rat Gloves |
+| -------------------------------- | --------------------------------- |
+| When 'Two Hooks Tom' lost both hands to a shark, he decided to make dresses instead. | Years of not-so-honest hard work has worn away these once pristine gloves. |
+| [![Seafoam Castaway Bilge Rat Dress image thumbnail](https://seaofthieves.wiki.gg/images/8/80/Seafoam_Castaway_Bilge_Rat_Dress.png)](https://seaofthieves.wiki.gg/wiki/Seafoam_Castaway_Bilge_Rat_Dress) | [![Seafoam Castaway Bilge Rat Gloves image thumbnail](https://seaofthieves.wiki.gg/images/e/e4/Seafoam_Castaway_Bilge_Rat_Gloves.png)](https://seaofthieves.wiki.gg/wiki/Seafoam_Castaway_Bilge_Rat_Gloves) |
