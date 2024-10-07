@@ -6,6 +6,11 @@ export type FlatChestData = {
   tags: string[];
 }[];
 
+export type FormattedRareItems = Record<
+  string,
+  { id: string; name: string; description: string }
+>;
+
 export type CargoQueryItem = {
   prefix: string;
   fullname: string;
