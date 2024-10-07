@@ -1,0 +1,19 @@
+{
+  "version": "0.2",
+  "ignorePaths": [
+    "package.json",
+    "eslint.config.mjs",
+    "tsconfig.json",
+    "cosmetics"
+  ],
+  "dictionaryDefinitions": [],
+  "dictionaries": [],
+  "words": [
+    "cargoquery",
+    "fullname",
+    "imagename",
+    "mercias"
+  ],
+  "ignoreWords": [],
+  "import": []
+}
