@@ -1,26 +1,15 @@
 import { writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-// import { env } from "./config.js";
+import { env } from "./config.js";
 
 import {
   CargoQueryItem,
-  // FlatChestData,
+  FlatChestData,
   PageQueryImage,
   FormattedWikiItems,
+  FormattedRareItems,
 } from "./types/misc.js";
-
-// const chestDataURL = new URL(
-//   "https://api.merciasquill.com/user/seaofthieves/chest"
-// );
-
-// const headers = new Headers();
-// headers.set("x-api-key", env.MERCIAS_QUILL_API_KEY);
-
-// const fetchRequest = await fetch(chestDataURL, { headers });
-// const chestResponse = await fetchRequest.json();
-
-// const allCosmetics = Object.values(chestResponse).flat(1) as FlatChestData;
 
 const wikiURL = new URL("https://seaofthieves.wiki.gg/api.php");
 wikiURL.searchParams.set("action", "cargoquery");
@@ -43,6 +32,8 @@ function removeHtmlChars(str: string): string {
     .replace(/&#0?39;/g, "'")
     .replace(/&#0?38;/g, "&");
 }
+
+// Fetching information for Wiki's internal database
 
 do {
   console.log("Fetched...", cargoQueryOffset);
@@ -105,39 +96,57 @@ do {
   await new Promise<void>((resolve) => setTimeout(() => resolve(), 1_000));
 } while (cargoQueryItems.length === 50);
 
-const itemsBy500Cosmetics = [];
-let itemsInGroupsOf500 = [];
+const setOrganizedWikiItems: Record<string, FormattedWikiItems[]> = {};
 
 for (const item of allWikiItems) {
-  itemsInGroupsOf500.push(item);
-
-  if (itemsInGroupsOf500.length === 500) {
-    itemsInGroupsOf500.push(itemsInGroupsOf500);
-    itemsInGroupsOf500 = [];
-  }
-}
-
-if (itemsInGroupsOf500.length > 0) itemsBy500Cosmetics.push(itemsInGroupsOf500);
-
-const setOrganizedItems: Record<string, FormattedWikiItems[]> = {};
-
-for (const item of allWikiItems) {
-  if (!setOrganizedItems[item.set]) {
-    setOrganizedItems[item.set] = [];
+  if (!setOrganizedWikiItems[item.set]) {
+    setOrganizedWikiItems[item.set] = [];
   }
 
-  setOrganizedItems[item.set].push(item);
+  setOrganizedWikiItems[item.set].push(item);
 }
 
-for (const set in setOrganizedItems) {
+// -------------------------------------------------
+
+// Fetching information for Rare's internal database
+
+const chestDataURL = new URL(
+  "https://api.merciasquill.com/user/seaofthieves/chest"
+);
+
+const headers = new Headers();
+headers.set("x-api-key", env.MERCIAS_QUILL_API_KEY);
+
+const fetchRequest = await fetch(chestDataURL, { headers });
+const chestResponse = await fetchRequest.json();
+
+const allRareItems = Object.values(chestResponse).flat(1) as FlatChestData;
+
+const nameOrganizedRareItems = allRareItems.reduce(
+  (organizedItems: FormattedRareItems, item) => {
+    organizedItems[item.name.replace(/\u{2019}/u, "'")] = {
+      id: item.id,
+      name: item.name,
+      description: item.description,
+    };
+
+    return organizedItems;
+  },
+  {}
+);
+
+// -------------------------------------------------
+
+for (const set in setOrganizedWikiItems) {
   console.log("Writing...", set);
 
-  const setPath = join("./cosmetics/wiki/", set + ".md");
+  const setWikiPath = join("./cosmetics/wiki/", set + ".md");
+  const setRarePath = join("./cosmetics/rare/", set + ".md");
 
   const setsBy3Items = [];
   let itemsBy3Set = [];
 
-  for (const item of setOrganizedItems[set].sort()) {
+  for (const item of setOrganizedWikiItems[set].sort()) {
     itemsBy3Set.push(item);
 
     if (itemsBy3Set.length === 3) {
@@ -148,34 +157,75 @@ for (const set in setOrganizedItems) {
 
   if (itemsBy3Set.length > 0) setsBy3Items.push(itemsBy3Set);
 
-  let setMarkdownContent = `# ${set}`;
+  let wikiSetMarkdownContent = `# ${set}`;
 
   for (const row of setsBy3Items) {
-    let itemNameRow = "|";
-    let nameDividerRow = "|";
+    let wikiItemNameRow = "|";
+    let wikiNameDividerRow = "|";
 
-    let itemDescRow = "|";
-    let itemImgRow = "|";
+    let wikiItemDescRow = "|";
+    let wikiItemImgRow = "|";
 
     for (const item of row) {
-      itemNameRow += ` ${item.name} |`;
-      nameDividerRow += ` ${item.name.replace(/./g, "-")} |`;
+      wikiItemNameRow += ` ${item.name} |`;
+      wikiNameDividerRow += ` ${item.name.replace(/./g, "-")} |`;
 
-      itemDescRow += ` ${item.desc} |`;
-      itemImgRow += ` [![${item.name} image thumbnail](${item.img})](https://seaofthieves.wiki.gg/wiki/${item.name.replace(/\s/g, "_")}) |`;
+      wikiItemDescRow += ` ${item.desc} |`;
+      wikiItemImgRow += ` [![${item.name} image thumbnail](${item.img})](https://seaofthieves.wiki.gg/wiki/${item.name.replace(/\s/g, "_")}) |`;
     }
 
-    setMarkdownContent += `\n\n${itemNameRow}`;
-    setMarkdownContent += `\n${nameDividerRow}`;
+    wikiSetMarkdownContent += `\n\n${wikiItemNameRow}`;
+    wikiSetMarkdownContent += `\n${wikiNameDividerRow}`;
 
-    setMarkdownContent += `\n${itemDescRow}`;
-    setMarkdownContent += `\n${itemImgRow}`;
+    wikiSetMarkdownContent += `\n${wikiItemDescRow}`;
+    wikiSetMarkdownContent += `\n${wikiItemImgRow}`;
   }
 
   // MD standards of a trailing new line
-  setMarkdownContent += "\n";
+  wikiSetMarkdownContent += "\n";
 
-  writeFileSync(setPath, setMarkdownContent);
+  writeFileSync(setWikiPath, wikiSetMarkdownContent);
+
+  let rareSetMarkdownContent = `# ${set}`;
+
+  for (const row of setsBy3Items) {
+    let rareItemNameRow = "|";
+    let rareNameDividerRow = "|";
+
+    let rareItemIdRow = "|";
+    let rareItemDescRow = "|";
+    let rareItemImgRow = "|";
+
+    for (const item of row) {
+      const rareItem = nameOrganizedRareItems[item.name];
+
+      const itemName = rareItem?.name ?? "*" + item.name + "*";
+      const itemId = rareItem?.id ?? "*Unknown cosmetic id*";
+      const itemDesc = rareItem?.description ?? "*" + item.desc + "*";
+      const itemImg = rareItem
+        ? item.img
+        : "https://cdn.merciasquill.com/images/67035fed8ad30bf0035179c4";
+
+      rareItemNameRow += ` ${itemName} |`;
+      rareNameDividerRow += ` ${itemName.replace(/./g, "-")} |`;
+
+      rareItemIdRow += ` ${itemId} |`;
+      rareItemDescRow += ` ${itemDesc} |`;
+      rareItemImgRow += ` [![${itemName} image thumbnail](${itemImg})](https://seaofthieves.wiki.gg/wiki/${item.name.replace(/\s/g, "_")}) |`;
+    }
+
+    rareSetMarkdownContent += `\n\n${rareItemNameRow}`;
+    rareSetMarkdownContent += `\n${rareNameDividerRow}`;
+
+    rareSetMarkdownContent += `\n${rareItemIdRow}`;
+    rareSetMarkdownContent += `\n${rareItemDescRow}`;
+    rareSetMarkdownContent += `\n${rareItemImgRow}`;
+  }
+
+  // MD standards of a trailing new line
+  rareSetMarkdownContent += "\n";
+
+  writeFileSync(setRarePath, rareSetMarkdownContent);
 }
 
 process.exit();

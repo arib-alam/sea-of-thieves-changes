@@ -8,7 +8,14 @@
   ],
   "dictionaryDefinitions": [],
   "dictionaries": [],
-  "words": ["cargoquery", "fullname", "imagename", "mercias"],
+  "words": [
+    "cargoquery",
+    "fullname",
+    "iiprop",
+    "imageinfo",
+    "imagename",
+    "mercias"
+  ],
   "ignoreWords": [],
   "import": []
 }
